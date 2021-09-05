@@ -1,7 +1,7 @@
 # myDeutsch
 Mein Beitrag auf Deutsch
 
-einzelnen - individual
+einzelnen - individual<br>
 Gaestebuch-  Register
 beitrag- contribution
 Mitteilung - message
