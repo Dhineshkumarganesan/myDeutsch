@@ -1,5 +1,5 @@
 # myDeutsch
-Meine Beitrag auf Deutsch
+Mein Beitrag auf Deutsch
 
 einzelnen - individual
 Gaestebuch-  Register
