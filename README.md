@@ -1,10 +1,625 @@
 # myDeutsch
-This is quick help of my knowledge on Deutsch
+Meine Beitrag auf Deutsch
 
-am sonsten  - otherwise
-erstellen - creation
-erstellt - create
-verfuegbar - available
+einzelnen - individual
+Gaestebuch-  Register
+beitrag- contribution
+Mitteilung - message
+Ausdrucke- expressions
+doch- sure
+halt - definitely
+eben - even
+usw- und so weiter
+Abkurzungen - abbreviation
+aufgeregt- upset/ disappointment
+bei mir vorbei -stop by me/stop at me
+Auftrag- order / assignment
+mitmacht - to support
+sorgen - to procure
+Stimmung - mood
+beinzubringen - to contibute
+Tanzflaeche - dance floor
+unbedingt - absolutely
+Zum Totlachen - you will laugh till you die
+Erziehungs- To raise children
+AuBerdem - moreover
+Weckt - to wake up
+wie sie damit umgehen - how to cope with it
+geregelt - to be controlled
+gelten- to apply 
+gebuehren - fees
+soeben- just now
+erfahren - to come to know
+herrscht - prevails / hold sway
+Ankunft - Arrival
+Absicht - view
+Maerchen- fairy tale / story 
+ungemuetlich - uncomfortable
+stolz -proud
+aufregend - exciting
+Anzeige - Advertisement
+Eichenholz -Oak wood
+zerkratzt und nicht  gepflegt -scratches and not taken care
+Seite -side
+dauert länger -takes longer
+aufgelegt -hung up
+herausfordernd -challenging
+Voraussetzung -requirement / pre-condition/ assumption
+eingereicht  -submitted
+Eine Datei -A File
+Aktienhalter -Shareholder
+akten -files
+die Akte -the file
+die Datei -the file
+strahlenden - Shining
+Schloss- castle
+vorgaenger-predecessor
+die vorherige Aufgabe - previous task
+einschatzen - estimate
+verursacht - it causes
+umgehen - to handle it
+vertreten - to represent
+beurteilen - to judge someone
+bewerten - to evaluate
+taendig - continously or all the time
+kriegen - to get
+beleidigen - to insult someone
+gelten - valid / applicable
+reif genug - mature enough/ ready enough
+behauptungen - assumption / allegation/ assertion/claim
+loswerden - to get rid of
+Sache-- fact/ reality/thing
+Fachleute- Subject experts
+Verwirrung stiften-Create confusion
+Verbessern-to improve
+verleumden -deffamieren / slander/malign
+deffamieren 
+Wohl - well
+haeufiger- frequently
+genommen- took it
+niedlich- cute
+Fortgeschrittene - advanced
+loehnen- be worth it
+Abgesehen davon - Apart from this
+Taschengeld- pocketmoney
+Handyrechnungen- Handy Bill
+versteckten Kosten - Hidden costs
+zufaellig- by chance
+Mannschaft- team
+der Brauch / tradition - Custom
+haushalt - house hold 
+beziehungsweise - respectively
+Klammern- bracket
+Anregung -suggestion
+dienen -to serve
+anderthalb Minuten -1 1/2 
+Unterbrechen -to disturb someone
+Tasse/ Becher - Cup
+Im Anschluss-At the end
+Redebeitrag -Guidelines
+usw- und so weiter
+unternommen- that you undertook
+Sehenswurdigkeiten- Tourist attraction
+veranstaltung - event
+reignis - Event
+bewerten - to evaluate
+Staendig - continously or all the time
+kriegen - to get
+beleidigen - to insult someone
+gelten - valid / applicable
+was garnicht stimmt - which is not true
+reif genug - mature enough/ ready enough
+behauptungen - assumption/ allegation/ assertion/claim
+loswerden - to get rid of
+Sache-- fact/ reality
+Fachleute- Subject experts
+Fachbereich - Subject Area
+einschatzen - estimate
+verursacht - it causes
+umgehen - to handle it
+vorgaenger-predecessor
+die vorherige Aufgabe - the previous task
+strahlenden - Shining
+Schloss- castle
+zerkratzt und nicht  gepflegt -scratches and not taken care
+Anzeige - Advertisement
+ungemuetlich - uncomfortable
+stolz -proud
+aufregend - exciting
+Absicht - view
+Maerchen- fairy tale / story
+herrscht - prevails / hold sway
+Ankunft - Arrival
+soeben- just now
+erfahren - to come to know
+geregelt - to be controlled
+gelten- to apply 
+gebuehren - fees
+Weckt - to wake up
+wie sie damit umgehen - how to cope with it
+Erziehungs- To raise children
+AuBerdem - moreover
+Stimmung - mood
+beinzubringen - to contibute
+Tanzflaeche- dance floor
+unbedingt - absolutely
+Zum Totlachen - you will laugh till you die
+sorgen - to procure
+mitmacht - to support
+Koffer - bag
+Zusage - Time Confirmation
+verbleibe - to remain
+In Herbst- Autumn
+In Fruhlings- Spring
+ausübten- to choose/exercise/ practised/exert/ perform
+beleg- proof /evidence
+Erfahrungen- Experiences
+Meinung - Opinion
+Demgegenüber - In contrast
+Sprecherin - Spokeswoman
+Erziehung - education
+geeignet halte - it is not suitable
+Ungleichheiten - Inequalities
+Gesellschaft- Society
+abzubauen- dissimilarity
+Stattdessen - Instead
+Rollenklischees-Role stereotypes
+weiblichen Geschlechts - Woman
+Errungenschaft- Quality
+Emanzipation- emancipation ( freeing of someone from slavery)
+so wie so - whatever
+bestaunen - to wonder or appreciate
+gemutlichen-comfortable
+ziemlich - rather
+zu Verfugung zu stelen- to make it available
+beliebt - popular
+Zwecken - reason
+gonnen - to enjoy
+versprechen- promises
+unzaehlige - numerous 
+Sparfuechse - Savings
+vergoldete - very old things
+bevorzugt - prefer
+selbstverstaendlich - Obviously / Understand myself 
+Aussattung - way the house it constructed
+Lebensweise - Lifestyle
+ich gebe dir Recht - I agree with you
+verzichtet - waived
+anzweifelt - doubt
+bequem - comfortable
+ausgegeben - to spend
+zurückerstattet -reimbursed
+Anleitung-instructions
+Die Rückzahlung - Refund
+Die Rückzahlung begonnen - eingeleitet -Refund initiated
+eingeleitet - to initiate
+gelöst  -to erase
+abbuchen - to deduct
+Tiefkühlabteilung -Freezer department
+riesigen Torten - very big cakes
+aufwandigern schmuck - expensive jewellery
+märchenhaft -princess
+Bräute-brides
+Zweifellos - undoubtedly
+bewusst - to be aware of something/conciously
+Horrorvorstellung - Horror Imagination
+Standesamt - Registry Office
+Umschulung - Retraining
+Vergangenheit -Simple past 
+Präsenz Perfekt -Present Perfect 
+Plusquamperfekt-Past Perfect
+solcher - such
+gemutlichen - comfortable 
+riesige ausgefallen -huge failed
+bequem - comfortable
+ziemlich - rather
+zu Verfugung zu stelen- to make it available
+beliebt - popular
+Zwecken - reason
+gonnen - to enjoy
+versprechen- promises
+unzaehlige - numerous 
+Sparfuechse - Savings
+bevorzugt - prefer
+vergoldete - very old things
+selbstverstaendlich - Obviously / Understand myself 
+Aussattung - way the house it constructed
+Lebensweise - Lifestyle
+ich gebe dir Recht - I agree with you
+verzichtet - waived
+anzweifelt - doubt
+zunehmenden - increasing
+Redemittel- means of speech
+Tatsache - fact
+Tatsache - the topic
+lebedige -active
+Aussatze - paragraph
+verauBersen - to auction
+bequeme- comfortable
+kostenguenstige - reasonable
+ueberleben - to survive
+sich bemühen  -to try
+irgendwann - someday
+Erben - Modern
+Begriff- Term
+gesellschaftlichen - society
+sichere Geldanlage - safe investment
+Geldanlage - investment
+einrichtet- to establish themselves
+Ausdrucksfahigkeit - Speaking capability
+uberzeugen - to convince
+unterbrechen - interrupt
+schwiegen- quiet
+vorgelegt- put infront of you
+Wahrend - during 
+lediglich
+legitly / simply 
+Entnehmen - to take out
+gewisse - particular 
+erleichtern - to make it easy
+Redewendungen- Idioms\
+Ausdrucke - Expressions
+einzelnen - to go through each 
+Ueberschritt - head line 
+Ueberblick - Overview
+ausgehen- to assume
+davon - from that
+bewertet - to evaluate
+Dennoch - However
+Demütigung -discouragement/ humiliation
+gehänselt -to tease
+sowohl-also
+Entweder oder - Either or
+Unbedingt - absolutely
+Vermutlich - assume
+teilgenommen-participate 
+Ich habe abgenommen-to reduce weight
+Rundfaehrt - roundtrip
+die Sichtweise - view
+der Stempel - the stamp
+gehaltabrechnung -payroll
+Selbstauskunft -Self-disclosure
+mittelständische - medium sized
+verkaufen - to sell
+herd - gas stove
+Ich vertraue ihr - i trust her 
+vertrauen -  trust
+versprechen- promise
+seltenes Product - rare product
+Schulausbildung - School education
+Kindererziehung -raising children
+Vertreten - to represent
+Nicht genannt - you have not spoken about it
+fernen - faraway
+fremden- strange
+fernen - faraway
+AusBerdem - moreover
+weniger - few
+etwas - something
+aufpassen - to take care
+Dorfern
+Dorf- village
+Gift - poisson
+Gift - chemicals
+Allerdings - However - Jedoch
+einigen- Some
+daneben - next to it
+Reihenfolge- sequence
+vortrag-Lecture
+Fremder- stranger
+Sonst -otherwise
+Dreck - dirt
+Gelungen - to succeed
+Quadrate - squares
+Schüttelt sich for lachen -Laughing with shaked appearance
+Riesige portion - bigger portion
+Erfinder - founder
+Spätzlepresse-Spaetzle press
+Dranhangen- there
+Aufsatze -Paragraph
+Stammen - originate
+Erhole - to recover
+Entdecke - to discover
+Enttauscht-To disappoint
+Verwundert - surprised
+Eisbecher - Ice cream bowl
+vorgestellt - to imagine
+im Märchen ein (kulinarisches) Paradies
+umsteigen - to change
+Luege- Lie
+zufriedengegeben-all are satisfied
+verraten- to disclose
+peinlich - embarassing
+wahre Grund - true reason
+Eisdiele - ice cream shop
+eine Wanderung - a hike
+treten - to step back
+treten - to enter
+sich zurück tritt - resigns
+gelöst  -to erase
+tandesamt - Registry Office 
+Horrorvorstellung - Horror Imagination
+bewusst - to be aware of something
+Zweifellos - undoubtedly
+Braeute  - Brides
+Retraining-Umschulung
+Simple past -Vergangenheit
+Praesens - Present
+solcher - such
+Sparfuechse - Savings
+unzaehlige - numerous 
+versprechen- promises
+gonnen - to enjoy
+vergoldete - very old things
+bevorzugt - prefer
+Lebensweise - Lifestyle
+Aussattung - way the house it constructed
+selbstverstaendlich - Obviously / Understand myself 
+anzweifelt - doubt
+verzichtet - waived
+Tatsache - the topic
+fact
+Tatsache - fact
+Redemittel
+Aussatze - paragraph
+lebedige -active
+Sich bemuehen -to try
+ueberleben - to survive
+kostenguenstige - reasonable
+bequeme- comfortable
+verauBersen - to auction
+irgendwann - someday
+einrichtet- to establish themselves
+Geldanlage - investment
+sichere Geldanlage - safe investment
+gesellschaftlichen - society
+Begriff- Term
+Erben - Modern
+schwiegen- quiet
+unterbrechen - interrupt
+uberzeugen - to convince
+Ausdrucksfahigkeit - Speaking capability
+vorgelegt- put infront of you
+Wahrend - during 
+lediglich
+legitly / simply 
+Entnehmen - to take out
+gewisse - particular 
+erleichtern - to make it easy
+Redewendungen- Idioms
+Ausdrucke - Expressions
+einzelnen - to go through each 
+Ueberschritt - head line 
+Ueberblick - Overview
+ausgehen- to assume
+davon-from that
+bwertet - to evaluate
+Dennoch However
+den Mut- courage
+ehrlich - Honestly
+Um ehrlich zu sein, ich mag es nicht - To be frank/ honest, i do not like it
+bedauern- to regret
+schaden- to damage
+beschaedigt - damaged
+Bastelarbeiten-Craftwork
+Das ist rein physische Sache - That is purely mental issue.
+Gehim - mind
+ueberhaupt - at all
+nicht ueberhaupt - not at all
+garnicht - not at all
+Sag mir Beschied- Let me know
+Kuesschen- to kiss
+wahrnehmen-attend
+Filiale - Branch
+verlegen - to postpone
+verein - Club
+Bedauern - to regret
+sorgfaeltig - carefully
+Wie fuehlst du jetzt dich? -How are you feeling now ?
+Machen Sie es gut ( Take care of yourself)
+der Beitrag-contribution
+erscheinen - to publish
+umsonst- free
+gratis - free of cost
+Aktentasche - briefcase
+loswerden- get rid of 
+betreut - taken care of
+beeindruckend - impressive
+Aussicht- view
+Rente- Pension
+gilt- valid/ applicable
+verwendbar - applicable
+Ruhestand - Retirement
+sich achten - to take care
+ausBerdem-moreover
+nah-near
+wuetend- angry
+In Betracht diese Situation - Considering this situation
+gleichfalls - Likewise
+entfernt - distance
+betrieb- Business
+Verabschiedung - Farewell/ Good Bye
+zustaendig- accountable / Incharge
+bisher- till now
+Praktikantin- apprentice
+EheschlieBung - Marriage
+Anredeform - How to address someone
+haufig- frequently
+Ansprechen-to speak / address it
+eingearbeitet - to settle down in a department
+Wiederschaeun- to see each other again
+Menge - lot of ( many )
+Mode- style
+auftragen- to communicate
+ausrichten- to communicate
+begegnen- to meet 
+abtrennen- to split
+trennen - seperate
+gespalten - divide
+Anhoerung - a doctor listen to heartbeat
+einreise, einstieg- Entry 
+der Herkunftsland-origin
+Flucht - to escape from their country - refugee
+Landwirtschaft - Agriculture
+Erzieherin - Educator
+Lastkraftwagen- LKW-Truck - Big Vehicle
+Berufskraftfahren - Professional truck driver
+Geländewagen  - Sport vehichle
+Fachkraft- IT Specialist
+Verabredungen- Appointment
+Vereinbaren- to setup
+halten von - what do you think about? (phrasal verb)
+vorhaben- preplan/ plan-->ich habe um 10 Uhr etwas vor.
+instandhaltungs-maintenance
+renovation/ retrofiting/upgrade
+ebenso - Asthough/ 
+Geschick- Skill
+Gehirm - Mind
+Voraussetzungen- requirements
+Onlineinserat - Online advertisment
+Stellensuche- job search
+frist - deadline
+Verguetung - Compensation
+leistungsgerechte- performance justified
+besetzt- occupied
+Baustelle- Construction site
+Bauarbeiter - Construction worker
+Abzuge- reduction
+Auszahlung - Paying off/out
+beitrag- contribution
+bezuge- earning
+reichen- sufficient
+verhaltnis- Relationship
+das Gehalt - Salary
+die Kundigung - Resignation
+ich habe mich gekuendigt - i have resigned
+abmachen- agreed
+halten- to keep
+anhalten - to stop
+abhalten - to discourage
+ich melde mich - i will get in touch with you
+Sind sie angemeldet -  do you have an appointment
+abmelden- to signout - deregister
+anmelden - to sign in -register
+Er hat sich krank angemeldet  - He has reported sick
+aus - out
+auf - open
+zu - close
+begleiten - to accompany
+Tagesordnung - Daily Routine
+gefolgt sind - accepted/ succeeded
+Tagesordnung- Agenda
+Werbemittel- Advertisement Strategy and Medium of Advertisement
+Fuhrung- Tour
+Werk- plant ( site)
+Referats- Presentation (Seminar Paper)
+Zunaechst - Initially
+Vortrag- Lecture
+besteht- consists of
+zuletzt - lastly
+Sprichwerten- Idioms
+Redensarten- Type / style in which we speak/ Way to speak
+Schlaegen-  to kill / to hit
+Hoeflichkeit- Courtesy
+Koenig- King
+Koenigin- Queen
+bemuehen- to try
+worum- why
+Einhalten- To attend ( Termin einhalten - to attend an appointment )
+schieben- push
+verzogern- postpone
+unhoeflich -impolite
+empfinden- to feel
+verkehrsmittel- means of transport
+fragen- to ask
+abbiegen- to turn
+ein Navi - GPS
+eingeben- to type
+einschlieBen- to include(eingeschlossen)
+bezahlen- to pay
+Anmeldeschein- Entry form
+Eintragen- to type
+Dienstleistungen- Service Maintenance
+anschluss- connection
+erkundigen- enquire
+Flugzeugabsturz - plane crash
+Gastfruendschaft- Hospitality
+kaemen- come conjuntive ( hypothetical )
+Zusagen- acceptance
+Absagen- rejection/cancel
+Imbiss - snack corner 
+anbieten- to offer
+abnehmen- take out
+Aperitif - Apple juice( alcohol)
+zu weissen - to assign
+Gastgeber- host
+Kleinigkeit- momento/soveineir 
+ueberreichen- to give over
+angebracht - attached
+Beamten- officers
+festgelegt- laid out
+Als Vorspeise - As a starter
+Augenblick- moment ( current moment )
+satt - full / stomach is full
+Tischformeln- table manners
+Trinksprueche - Drinking ethics
+verehrten Gaste - respected Guests
+charmantan Gastgaberin- Charming Host
+anstoBen - to cheer up
+darf ich zu Tisch bitten - may i request you to come / sit near the table
+bedienen- to serve 
+greifen - to hold / to take some 
+ueblich - common
+durchhaus- thoroughly
+sofern- to the extent
+sich zunehmen - to increase weight
+sich abnehmen- to reduce weight
+teilgenommen - to attend
+teilnehmen- to participate
+einstieg- started/getting in/entry
+ueberschrift - headline
+Wachstum- Growth
+Bilden - to form
+Ausgabe- Edition
+verlage- publishing house
+eingestellt - to hire
+vertiefen- to contact for more relations
+abreisen- to come back
+anreisen - to go back
+Anspruch zu nehmen- take into consideration
+anspruch - to consider
+abstimmen- to coordinate/ to set 
+Uebereinstimmung- approval
+Anfahrtsskizze - Tour guide 
+sowie - like
+sagen Sie mir beschied/ lassen Sie es mich bitte wissen- let me know
+erlaubt - allowed
+unaufschiebbaren Termin - cannot postpone
+besorgte - to worry
+verloren - to loss
+Bewusstlos - unconscious
+vorgestellt - introduced
+When it is command, remove T
+schreib
+komm zurück!!
+geh weg!!
+hau ab - get lost
+verschwinde- get lost
+verschwinden - get lost
+angesteigen - increased
+verringert/reduzieren - Decrease
+hinzufugen - add
+minus/abziehen/abeben - delete/ deduct 
+gehalt - money
+einzahlen- deposit (Mein gehalt im Bank einzahlen )
+durchziehen- to swipe
+zum ersten Mal- first time
+gedonnert - thundering
+geblitzt - lightning
+das Gewitter - Strom
+donnert - thundering
+blitzt  - lightning
+Es gibt Hundewetter- There is bad weather
 
 
 ***********************************
