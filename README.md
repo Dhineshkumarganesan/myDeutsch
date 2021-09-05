@@ -118,6 +118,10 @@ kriegen - to get
 beleidigen - to insult someone
 gelten - valid / applicable
 was garnicht stimmt - which is not true
+
+<br>
+<br>
+<br>
 reif genug - mature enough/ ready enough
 behauptungen - assumption/ allegation/ assertion/claim
 loswerden - to get rid of
@@ -206,6 +210,10 @@ ich gebe dir Recht - I agree with you
 verzichtet - waived
 anzweifelt - doubt
 bequem - comfortable
+
+<br>
+<br>
+<br>
 ausgegeben - to spend
 zurückerstattet -reimbursed
 Anleitung-instructions
@@ -260,6 +268,10 @@ lebedige -active
 Aussatze - paragraph
 verauBersen - to auction
 bequeme- comfortable
+
+<br>
+<br>
+<br>
 kostenguenstige - reasonable
 ueberleben - to survive
 sich bemühen  -to try
@@ -309,6 +321,10 @@ der Stempel - the stamp
 gehaltabrechnung -payroll
 Selbstauskunft -Self-disclosure
 mittelständische - medium sized
+
+<br>
+<br>
+<br>
 verkaufen - to sell
 herd - gas stove
 Ich vertraue ihr - i trust her 
@@ -340,6 +356,10 @@ Sonst -otherwise
 Dreck - dirt
 Gelungen - to succeed
 Quadrate - squares
+
+<br>
+<br>
+<br>
 Schüttelt sich for lachen -Laughing with shaked appearance
 Riesige portion - bigger portion
 Erfinder - founder
@@ -397,6 +417,10 @@ Tatsache - fact
 Redemittel
 Aussatze - paragraph
 lebedige -active
+
+<br>
+<br>
+<br>
 Sich bemuehen -to try
 ueberleben - to survive
 kostenguenstige - reasonable
@@ -462,6 +486,10 @@ umsonst- free
 gratis - free of cost
 Aktentasche - briefcase
 loswerden- get rid of 
+
+<br>
+<br>
+<br>
 betreut - taken care of
 beeindruckend - impressive
 Aussicht- view
@@ -503,6 +531,10 @@ Landwirtschaft - Agriculture
 Erzieherin - Educator
 Lastkraftwagen- LKW-Truck - Big Vehicle
 Berufskraftfahren - Professional truck driver
+
+<br>
+<br>
+<br>
 Geländewagen  - Sport vehichle
 Fachkraft- IT Specialist
 Verabredungen- Appointment
@@ -536,6 +568,10 @@ abmachen- agreed
 halten- to keep
 anhalten - to stop
 abhalten - to discourage
+
+<br>
+<br>
+<br>
 ich melde mich - i will get in touch with you
 Sind sie angemeldet -  do you have an appointment
 abmelden- to signout - deregister
@@ -612,6 +648,10 @@ charmantan Gastgaberin- Charming Host
 anstoBen - to cheer up
 darf ich zu Tisch bitten - may i request you to come / sit near the table
 bedienen- to serve 
+
+<br>
+<br>
+<br>
 greifen - to hold / to take some 
 ueblich - common
 durchhaus- thoroughly
@@ -636,6 +676,10 @@ abstimmen- to coordinate/ to set
 Uebereinstimmung- approval
 Anfahrtsskizze - Tour guide 
 sowie - like
+
+<br>
+<br>
+<br>
 sagen Sie mir beschied/ lassen Sie es mich bitte wissen- let me know
 erlaubt - allowed
 unaufschiebbaren Termin - cannot postpone
