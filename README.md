@@ -740,7 +740,7 @@ Markus<br>
 
 ![image](https://user-images.githubusercontent.com/59999899/132132779-bccd8d45-54ae-4173-b6b6-d86fa44b8d26.png)
 
-Hallo Mona,
+Hallo Mona,<br>
 Ich freu mich, dass ich gestern eine neue Freundin kennengelernt habe.<br>
 Gestern bin ich zum Einkaufzentrum gegangen und ich habe in einem Kaffeeplatz eine Freundin gefunden<br>
 Sie hiesst Lisa und Sie kommt aus Berlin.<br>
