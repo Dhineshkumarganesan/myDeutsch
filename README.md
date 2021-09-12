@@ -9,7 +9,7 @@ Do not forget
 2. mit --> should go dativ article declension - ( em - masc ,er - fem, en- dativ plural) 
 3. an should be used with teilnehmen / teilgenommen
 4. heiBes Wasser --> adjective ( qualifies the noun by describing the object ) - hot water - heiBes Wasser 
-5. Akkusativ- movement , Dativ - postion, genetiv - possession of object
+5. Akkusativ- movement & object , Dativ - postion, genetiv - possession of object
 6. Sein - bin
 7. Time or Place, the sentence should start with Verb
 8. Jeden Tag,Jede Woche,Jeden Monat, Jedes Jahr, Letzten Zwei Tagen,Letzte Woche, Letzten Monat, Letztes Jahr
