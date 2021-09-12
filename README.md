@@ -709,6 +709,12 @@ donnert - thundering
 blitzt  - lightning
 Es gibt Hundewetter- There is bad weather
 
+***********************************
+Artikel Identifikation
+***********************************
+
+![image](https://user-images.githubusercontent.com/59999899/132997330-8aeff83e-f33c-4f9a-989d-e7434eed0f7f.png)
+
 
 ***********************************
 Artikel Declension Protokol
