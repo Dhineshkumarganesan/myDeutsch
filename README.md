@@ -716,6 +716,10 @@ Artikel Identifikation
 ![image](https://user-images.githubusercontent.com/59999899/132997330-8aeff83e-f33c-4f9a-989d-e7434eed0f7f.png)
 
 
+https://www.dummies.com/languages/german/identifying-a-german-words-gender/
+
+https://www.nthuleen.com/teach/grammar/nomakkexpl.html
+
 ***********************************
 Artikel Declension Protokol
 ***********************************
