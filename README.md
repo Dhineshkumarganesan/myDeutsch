@@ -1,6 +1,30 @@
 # myDeutsch
+*****************************
 Mein Beitrag auf Deutsch
+*****************************
 
+Do not forget
+
+1. Time expression--> will be accusative(Jeden Monat). If there is no preposition. If exist it is Dativ (Im jedem Monat)
+2. mit --> should go dativ article declension - ( em - masc ,er - fem, en- dativ plural) 
+3. an should be used with teilnehmen / teilgenommen
+4. heiBes Wasser --> adjective ( qualifies the noun by describing the object ) - hot water - heiBes Wasser 
+5. Akkusativ- movement , Dativ - postion, genetiv - possession of object
+6. Sein - bin
+7. Time or Place, the sentence should start with Verb
+8. Jeden Tag,Jede Woche,Jeden Monat, Jedes Jahr, Letzten Zwei Tagen,Letzte Woche, Letzten Monat, Letztes Jahr
+9. Du fehlst mir ( i miss you), fehlst du mir? - People
+Objects - like train, event - use verpassen
+10.Ich hatte Glück gehabt,Geduld gehabt
+11.neueste,schicke,moderne 
+12.e ,Schaft ,Keit, Heit,ik --> feminine
+13.Months,days,seasons --> Masculine .Year--> Plural
+14. Die Welt , Das Universium
+
+
+*************************
+Mein Wortschatz
+*************************
 einzelnen - individual<br>
 Gaestebuch-  Register
 beitrag- contribution
