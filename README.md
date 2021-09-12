@@ -13,12 +13,11 @@ Do not forget
 6. Sein - bin
 7. Time or Place, the sentence should start with Verb
 8. Jeden Tag,Jede Woche,Jeden Monat, Jedes Jahr, Letzten Zwei Tagen,Letzte Woche, Letzten Monat, Letztes Jahr
-9. Du fehlst mir ( i miss you), fehlst du mir? - People
-Objects - like train, event - use verpassen
-10.Ich hatte Glück gehabt,Geduld gehabt
-11.neueste,schicke,moderne 
-12.e ,Schaft ,Keit, Heit,ik --> feminine
-13.Months,days,seasons --> Masculine .Year--> Plural
+9. Du fehlst mir ( i miss you), fehlst du mir? - People . Objects - like train, event - use verpassen<br>
+10. Ich hatte Glück gehabt,Geduld gehabt<br>
+11. neueste,schicke,moderne <br>
+12. e ,Schaft ,Keit, Heit,ik --> feminine<br>
+13. Months,days,seasons --> Masculine .Year--> Plural<br>
 14. Die Welt , Das Universium
 
 
