@@ -838,11 +838,31 @@ Daher habe ich zwei Karten gebucht<br>
 Koenntest du bitte bestaetigen, dass wir die Ausstellung in der Letzten Woche gemainsamen besuchen werden?<br>
 Dein Freund.<br>
 Dhinesh Kumar Ganeshan <br>
+<br>
+Hello Mona,<br>
+How is your health ? Do you feel better?<br>
+Last week you told me that you were very sick.<br>
+I hope you are feeling fine now.<br>
+Last week, I took part in a photo exhibition<br>
+The exhibition takes place in Berlin City Hall.<br>
+The theme takes place with photographers and artists in the exhibition<br>
+Many professionals from photography and art took part in the exhibition<br>
+The exhibition opens until the end of the month<br>
+Because you are a photography fanatic, the exhibition would be well worth a visit.<br>
+Apart from that, a lot of nature and scientific photography and videos have been displayed in the exhibition<br>
+When I took part in the exhibition, many experts and your contribution to photography indicated in the exhibition. The experts presented a seminar<br>
+They said that more professionals from Europe and the US will be attending the exhibition last week<br>
+I thought that the exhibition / event would be more interesting<br>
+So I booked two tickets<br>
+Could you please confirm that we will visit the exhibition together last week?<br>
+Your friend.<br>
+Dhinesh Kumar Ganeshan<br>
 
-![image](https://user-images.githubusercontent.com/59999899/132133034-006db60c-0003-45a5-98fd-2f224adbaaff.png)
+
 
 <br>
-
+![image](https://user-images.githubusercontent.com/59999899/132133034-006db60c-0003-45a5-98fd-2f224adbaaff.png)
+<br>
 05 <br>
 Hallo Herr Mohan,<br>
 
