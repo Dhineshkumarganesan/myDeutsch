@@ -893,6 +893,18 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+![image](https://user-images.githubusercontent.com/59999899/133648571-4aea422c-b854-43ad-9e60-57430df8ed99.png)
+
+Hallo Herr Andreas,
+Da wir nach Hamburg reisen und als Treffpunkt hatten wir uns fuer Hauptbahnhof entschieden, leider  kann ich Sie nicht von dem Hotel abholen.
+Ich habe einen Termin plotlich mit mein Vermieter gemacht. 
+Ich muss diese Termin einhalten
+Ich habe meinen Freund  Markus informiert, dass er dich von dem Hotel abholt
+Sie koennen ihn unter diese nummer XXX erreichen
+Vielen Dank
+Mit freundlichen GrueBen,
+Dhinesh Kumar Ganeshan
+
 ![image](https://user-images.githubusercontent.com/59999899/132133218-e101adfe-9a84-44c6-9245-384f04cf835a.png)
 
 Hallo Mona,<br>
