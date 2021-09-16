@@ -105,6 +105,7 @@ deffamieren
 Wohl - well
 haeufiger- frequently
 genommen- took it
+eine besorgte nachricht - a concerned message
 
 <br>
 <br>
