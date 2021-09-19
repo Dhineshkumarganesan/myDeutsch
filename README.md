@@ -757,8 +757,9 @@ Artikel Declension Protokol
 Schreiben Aufgabe
 ****************************
 
+****************************
 01 - PARTY FEIERN <br>
-
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132132572-61d2a934-4e4b-4c8a-8e06-58a211ce2727.png)
 
 Hallo Janus,<br>
@@ -774,9 +775,12 @@ Bis Dienstag, Aufwiedersehen<br>
 Dein Cousin,<br>
 Markus<br>
 
+****************************
+02 EIN FREUND KENNENGELERNT<br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132132779-bccd8d45-54ae-4173-b6b6-d86fa44b8d26.png)
 
-02 EIN FREUND KENNENGELERNT<br>
+
 
 Hallo Mona,<br>
 Ich freu mich, dass ich gestern eine neue Freundin kennengelernt habe.<br>
@@ -795,9 +799,12 @@ Ich weiB nicht,warum ich sie so sehr mag.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+03 HUNDEFAN <br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132132874-c489e839-1fce-4944-bd65-f7e6fd7e5d22.png)
 
-03 HUNDEFAN <br>
+
 
 Hallo Mona , <br>
 Ich schreibe dich, dass ich einen kleinen Hund im Park gefunden habe und mit nach Hause gebracht habe.<br>
@@ -816,9 +823,13 @@ Bitte besucht mein Haus.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+04 FOTO / KUNST AUSTELLUNG<br>
+****************************
+
 ![image](https://user-images.githubusercontent.com/59999899/132132941-8e105ccd-04aa-4819-8ad1-f17d1d8a70c3.png)
 
-04 FOTO / KUNST AUSTELLUNG<br>
+
 
 Hallo Mona,<br>
 Wie ist deine Gesundheit ? Fuehlst du dich besser?<br>
@@ -859,13 +870,16 @@ Your friend.<br>
 Dhinesh Kumar Ganeshan<br>
 
 
-
+<br>
+****************************
+05 DEUTSCH AUSTAUSCHSCHULER BEI IHNEN LEBEN WIRD <br>
+****************************
 <br>
 ![image](https://user-images.githubusercontent.com/59999899/133677691-7a98407a-1551-424b-8240-1ef398769afc.png)
 
 
 <br>
-05 DEUTSCH AUSTAUSCHSCHULER BEI IHNEN LEBEN WIRD <br>
+
 <br>
 <br>
 Hallo Herr Mohan,<br>
@@ -887,9 +901,13 @@ Vielen Dank,<br>
 Mit freundlichen GruBen,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+06 DIE HOHEN HANDY RECHNUNGEN <br>
+****************************
+
 ![image](https://user-images.githubusercontent.com/59999899/132133083-e6bc33a5-9028-4ed2-94e8-b32105b7c2e7.png)
 
-06 DIE HOHEN HANDY RECHNUNGEN <br>
+
 
 Hallo Mohan,<br>
 Ich freue mich dass, du mir geschreiben hast<br>
@@ -910,9 +928,13 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+07 FUBBALL SPIELER IN EINKAUFSZENTRUM <br>
+****************************
+
 ![image](https://user-images.githubusercontent.com/59999899/132133201-863ee649-06bd-4410-a4d1-e0ba4679de03.png)
 
-07 FUBBALL SPIELEN IN EINKAUFSZENTRUM <br>
+
 
 Hallo Mona,<br>
 Ich freue mich, dass ich gestern zufaellig einen FuBballspieler in einem Einkaufzentrum gesehen habe und Ihn gesprochen habe.<br>
@@ -944,9 +966,13 @@ Vielen Dank<br>
 Mit freundlichen GrueBen,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+08 URLAUB MIT FRUEND ABLEHNEN DIE EINLADUNG <br>
+****************************
+
 ![image](https://user-images.githubusercontent.com/59999899/132133218-e101adfe-9a84-44c6-9245-384f04cf835a.png)
 
-08 URLAUB MIT FRUEND ABLEHNEN DIE EINLADUNG <br>
+
 
 Hallo Mona,<br>
 Vielen Dank fuer Ihre Einladung.<br>
@@ -965,9 +991,11 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+09 SPORTVERLETZUNG br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133240-71dc07d5-0425-44f7-abc6-d9fc3b4acc01.png)
 
-09 SPORTVERLETZUNG br>
 
 Hallo Dirk,<br>
 Ich habe deinen Brief erhalten<br>
@@ -988,8 +1016,9 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dodger<br>
 
+****************************
 10 SOMMERFEST MIT ZWEI FREUNDEN <br>
-
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133261-9060dc67-b4db-465f-84c0-a6640a0dbd13.png)
 
 Hallo Diana und Dirk,<br>
@@ -1010,9 +1039,11 @@ Bis bald.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+11 NACHBARN ZUM ESSEN EINGELADEN <br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133274-b1898106-1a39-43db-a88d-4a9b9d9715b6.png)
 
-11 WEIHNACHT SCHENCKER FUER VATER <br>
 
 Hallo Mona,<br>
 Ich freue mich darueber, dass ich gestern Abend sehr besonders schoen verbracht habe <br>
@@ -1029,9 +1060,11 @@ Mach es gut.<br>
 Deine Freund,<br>
 Dhinesh Kumar Ganeshan	<br>
 
+****************************
+12 EIN TATTOO MOECHTE <br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133299-faa4038a-dbab-4376-82a0-24b328a1ee35.png)
 
-12 EIN TATTOO MOECHTE <br>
 
 Hallo Mona,<br>
 Bei mir alles gut. Hoffentlich, machst du sehr gut. <br>
@@ -1061,7 +1094,9 @@ Vielen Dank,<br>
 Mit freundlichen GrueBen,<br>
 Dhinesh Kumar Ganeshan<br>
 
-13 STUDIEREN IN GROBES STADT<br>
+****************************
+13 WEIHNACHT SCHENCKER FUER VATER<br>
+****************************
 
 ![image](https://user-images.githubusercontent.com/59999899/132133320-df0223ff-a174-4407-bac2-892454fa2e3c.png)
 
@@ -1081,9 +1116,11 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+14 STUDIEREN IN GROBES STADT <br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133348-ba6e6a2d-33f2-4ae4-a20c-73b577c83c83.png)
 
-14 DEIN FREUND ZU EINEN AUSFLUG EINLADEN <br>
 
 Hallo Ramzy,<br>
 Letzte Woche, habe ich meine Schwester besucht und sie studiert in Berlin <br>
@@ -1101,10 +1138,12 @@ Mach es gut.<br>
 Dein Freund.<br>
 Dhinesh Kumar Ganeshan<br>
 
+****************************
+15 DEIN FREUND ZU EINEN AUSFLUG EINLADEN<br>
+****************************
 ![image](https://user-images.githubusercontent.com/59999899/132133359-4dc72920-2a13-4ddd-aad9-88b6a714ea88.png)
 
 
-15 NACHBARN ZUM ESSEN EINGELADEN<br>
 
 Hallo Ramzy,<br>
 Wie geht's dir? Mir geht es gut.<br>
