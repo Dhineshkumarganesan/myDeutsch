@@ -987,8 +987,8 @@ Wegen der Arbeit, macht / geht er sehr haufig eine Reise<br>
 In seinem Buro/Arbeit, bekommt er eine GeschaftsReise nach Europa<br>
 Unsere Familie plant eine getrennt Reise nach Europa <br>
 Wir haben diese Reise von nachste woche bis Ende des Monats geplant<br>
-Ich habe Ihre Einladung mit meine Eltern diskutiert und meine Eltern senden Ihre GruBe.<br>
-Ich wunsche dir und deine Famile einen Schoenen Fereien <br>
+Ich habe Ihre Einladung mit meine Eltern diskutiert und meine Eltern senden Ihre GrueBe/Wuensche.<br>
+Ich wuensche dir und deine Famile einen Schoenen Fereien <br>
 Nachstes Mal. werden wir zusammen mit Ihnen gehen.<br>
 Vielen Dank wieder.<br>
 Mach es gut.<br>
