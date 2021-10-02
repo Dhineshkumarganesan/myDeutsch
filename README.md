@@ -754,6 +754,11 @@ Artikel Declension Protokol
 ![image](https://user-images.githubusercontent.com/59999899/132132760-d931e0c3-28d6-488d-a59a-49b0d7b182f2.png)
 
 ****************************
+Bin , Sein Form
+****************************
+![image](https://user-images.githubusercontent.com/59999899/135719188-3f163f2d-cf76-4360-af2f-31cc6cda0d5f.png)
+
+****************************
 Schreiben Aufgabe
 ****************************
 
