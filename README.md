@@ -732,6 +732,204 @@ das Gewitter - Strom
 donnert - thundering
 blitzt  - lightning
 Es gibt Hundewetter- There is bad weather
+<br>
+<br>
+<br>
+
+Obdachlose - Homeless
+Spenden- Donation
+Schutzlinge- members of the Homeless association
+Backwerk- Baking things
+teigen- dough
+Arten - Type
+Lebekuchen-Gingerbread
+gewuerst - spicy
+knapp - little bit above ( knapp uber 5 prozent)
+WohnAnlagen- Living Spaces
+verschaerft - increased
+belegungsabgabe- spaces allocated 
+abgabe- to give
+Drogen- Drugs
+Ersetzen- Replace
+ungefaehr - approximately
+Opfer- victims
+Regisseur - Director
+teufel- ghost
+Superverbrecher- CRIMINAL - Taeter
+Werkzeug- like a tool
+Kommissar Kros- who heads crime department
+Gipfeler- Peak of Hill
+auBergewoehnliche - Exceptional
+abgestimmt- agreed
+Geheimnis- secret
+Spur - to track
+stuerzen- to fall down
+Abenteuer - Adventure
+Fels- rocks
+schwindelnde- Swindling
+Arbeitlosigkeit- unemployment
+Eine Umfrage- A Survey
+Lohnt- worth
+erfolglos - unsuccessful
+verschaffen- to procure / to get something
+umhoeren- to ask them 
+zweckmaBig -purposeful
+zweck- purpose
+EinstellungTest- Recruitment Test/Placement Test
+Reichtum- Quantity/ Wealth
+Schatzen - to estimate
+Durchschnitts - Average / Grade
+Ausstellung- Exhibition
+Werke - His works/ results
+betraut - entrusted
+ueberreichen- to give
+freiwillige- volunteer
+zu eng - very tight
+Auszubildende - trainee
+begeistert- very happy/ very enthusiastic
+zurecht- good terms
+mittlere Reife-- after 10 class
+Zahnradfabrik - gear factory
+Zusage - to accept
+absage - to reject
+angestellt- hired/ employed
+wezuziehen- move away
+ueber nachste- next to next week
+Wissenschaftler - Scientists
+Flaschen- bottle
+Flaeche -  Area
+Siedlungsflaeche - Settlement area/ ppl can settle
+Amt- offiziel
+Liechtenstein- Country near Germany
+Angaben-Info/ data/ declaration
+<br>
+<br>
+<br>
+
+stellungnahme - Opinion
+schrecklich - terrible/dreadful
+Ehrlich gesagt-Honestly
+Wirtschaft- business/ work/ economy/pub/saloon
+ploetzlich- suddenly
+Sicherheitsdenken- Security thinking
+Berufsberatung- Career Consulting
+Schulzeugnisse- School Certificates
+fluss- river
+floB- raft
+herrlich- splendid
+aufregendsten- exciting city
+Dingen- things matters
+merken - to notice (observe)
+Mittlerweile - in the meantime
+Irgendwann- One day
+Ehepaar- couple
+dagegen spricht- speak against it
+spenden- Donate
+erfunden- invented
+Zeit verschwendung- waste of time
+vergrault-pissed off/ scare off
+einlas- entry
+ErmaBigt- Discount
+Begleitung- Accompany
+Fuhrungen - Tour
+Vorfuhrungen- Presentation/Demo
+gewebliche Zweche- Business reasons
+Behindertengerechter - Handycapped/Disabled/PPL with different abilities
+imbiss- snack corner
+Sortiment - Collection
+Verzeichnis- Directory
+die Mauer -Wall
+Zufallig- luckily by chance
+Dutzende- Dozens 
+abdriftete- diverted
+mustern- design
+gemustert-pattern / Life styles
+stilberaterin	- Style Advisor
+selbstaendig - Independent
+Auftrage- Consultant
+Stoffe- stuff/things
+angezogen- dressed up
+neugierige - Curious
+bejahen- affirmed
+aufstoBen- impact
+wissenschaft- Science
+beteiligen- to participate
+Arbeitkreise- work circle
+verlangen- to ask for/ demand 
+merken- to realise
+schaffe - create
+ich schaffe es- i can do it
+verzweifelt - desperate
+ziemlich- quite
+geignet -suitable
+verlangen - demand
+
+<br>
+<br>
+<br>
+Grenzen - limits
+sprengt - blows up
+einzigartig - unique
+Gestammel - Stammering
+eindruck - Impression
+anschlieBend - subsequently
+vorgegensweise - in a method
+durchgelesen - thoroughly
+Mitbringsel- Soveineir
+strittigen - controversial
+Argument PRO, dafur- Argument Support it
+Argument CONTRA, dagegen - Argument against it
+reichen- sufficient
+ausreichen- to align
+auswendig - by heart
+Formulierung - to form
+angemessen- appropriate or adequeate
+Herstellung- manufacture
+Es lasst sich leicht vergroBen und verkleinern
+- It is very easy to make it bigger and smaller
+ab und zu - now and then
+Herkunftsland - origin country
+Es handelt sich um die -- It is about the
+Der Verfasser- Author
+betont - emphasises
+Der Verfasser des Artikel betont - The author of the artikel emphasises
+Anfassen- to touch - Seiten Anfassen- to touch the pages
+Genuss - blessing
+riechen - to smell
+besonders - particularly
+unterschaetzen- under estimate
+Andererseits - On the other end
+Einerseits - On one side
+Zeiterspanis - Time saving
+fallen aus - reduced out
+Zeitverlust- time waste
+Stoerung- Disturbances
+Wahrgenommen - not to be accepted / not perceived
+Eingriff- attack
+Privatsphaere- private space
+berichtet ausfuhrlich--> reports extensively
+betont- emphasises
+umgestiegen- moved
+hervorrangendes - challenging
+spannend - exciting
+Quatschen- gossiping
+Entfernung- taking out / Distance
+Trotz der Entfernung- Inspite of distance
+geignet - suitable
+pflege ich - taking care
+angeht- 
+Griff - control
+geimpft- vaccinated
+umsonst - for free
+zerstoeren-to destroy
+Lebensjahr-Life years
+Lebensabschnitt- Time period
+Forschung- Research
+ewig -forever
+alles glatt - everything smooth
+nicht geschafft - did not make it
+durchsetzen- push through
+except - auBer
 
 ***********************************
 Artikel Identifikation
