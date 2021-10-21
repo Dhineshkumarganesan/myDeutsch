@@ -24,6 +24,9 @@ Do not forget
 *************************
 Mein Wortschatz
 *************************
+
+1
+<br>
 einzelnen - individual<br>
 Gaestebuch-  Register
 beitrag- contribution
@@ -69,7 +72,8 @@ dauert länger -takes longer
 <br>
 <br>
 <br>
-
+2
+<br>
 aufgelegt -hung up
 herausfordernd -challenging
 Voraussetzung -requirement / pre-condition/ assumption
@@ -110,6 +114,8 @@ eine besorgte nachricht - a concerned message
 <br>
 <br>
 <br>
+3
+<br>
 
 niedlich- cute
 Fortgeschrittene - advanced
@@ -146,6 +152,8 @@ was garnicht stimmt - which is not true
 <br>
 <br>
 <br>
+4
+<br>
 reif genug - mature enough/ ready enough
 behauptungen - assumption/ allegation/ assertion/claim
 loswerden - to get rid of
@@ -174,6 +182,8 @@ geregelt - to be controlled
 
 <br>
 <br>
+<br>
+5
 <br>
 
 gelten- to apply 
@@ -207,6 +217,8 @@ Gesellschaft- Society
 <br>
 <br>
 <br>
+6
+<br>
 
 abzubauen- dissimilarity
 Stattdessen - Instead
@@ -238,6 +250,8 @@ bequem - comfortable
 <br>
 <br>
 <br>
+7
+<br>
 ausgegeben - to spend
 zurückerstattet -reimbursed
 Anleitung-instructions
@@ -265,6 +279,8 @@ riesige ausgefallen -huge failed
 
 <br>
 <br>
+<br>
+8
 <br>
 
 bequem - comfortable
@@ -296,6 +312,8 @@ bequeme- comfortable
 <br>
 <br>
 <br>
+9
+<br>
 kostenguenstige - reasonable
 ueberleben - to survive
 sich bemühen  -to try
@@ -321,6 +339,8 @@ Redewendungen- Idioms
 
 <br>
 <br>
+<br>
+9
 <br>
 
 Ausdrucke - Expressions
@@ -348,6 +368,8 @@ mittelständische - medium sized
 
 <br>
 <br>
+<br>
+10
 <br>
 verkaufen - to sell
 herd - gas stove
@@ -384,6 +406,8 @@ Quadrate - squares
 <br>
 <br>
 <br>
+11
+<br>
 Schüttelt sich for lachen -Laughing with shaked appearance
 Riesige portion - bigger portion
 Erfinder - founder
@@ -412,6 +436,8 @@ sich zurück tritt - resigns
 
 <br>
 <br>
+<br>
+12
 <br>
 
 gelöst  -to erase
@@ -444,6 +470,8 @@ lebedige -active
 
 <br>
 <br>
+<br>
+13
 <br>
 Sich bemuehen -to try
 ueberleben - to survive
@@ -489,6 +517,8 @@ Das ist rein physische Sache - That is purely mental issue.
 <br>
 <br>
 <br>
+14
+<br>
 
 Gehim - mind
 ueberhaupt - at all
@@ -513,6 +543,8 @@ loswerden- get rid of
 
 <br>
 <br>
+<br>
+15
 <br>
 betreut - taken care of
 beeindruckend - impressive
@@ -559,6 +591,8 @@ Berufskraftfahren - Professional truck driver
 <br>
 <br>
 <br>
+16
+<br>
 Geländewagen  - Sport vehichle
 Fachkraft- IT Specialist
 Verabredungen- Appointment
@@ -595,6 +629,8 @@ abhalten - to discourage
 
 <br>
 <br>
+<br>
+17
 <br>
 ich melde mich - i will get in touch with you
 Sind sie angemeldet -  do you have an appointment
@@ -650,6 +686,8 @@ Absagen- rejection/cancel
 <br>
 <br>
 <br>
+18
+<br>
 
 Imbiss - snack corner 
 anbieten- to offer
@@ -675,6 +713,8 @@ bedienen- to serve
 
 <br>
 <br>
+<br>
+19
 <br>
 greifen - to hold / to take some 
 ueblich - common
@@ -703,6 +743,8 @@ sowie - like
 
 <br>
 <br>
+<br>
+20
 <br>
 sagen Sie mir beschied/ lassen Sie es mich bitte wissen- let me know
 erlaubt - allowed
@@ -734,6 +776,8 @@ blitzt  - lightning
 Es gibt Hundewetter- There is bad weather
 <br>
 <br>
+<br>
+21
 <br>
 
 Obdachlose - Homeless
@@ -805,6 +849,8 @@ Angaben-Info/ data/ declaration
 <br>
 <br>
 <br>
+22
+<br>
 
 stellungnahme - Opinion
 schrecklich - terrible/dreadful
@@ -866,6 +912,8 @@ verlangen - demand
 
 <br>
 <br>
+<br>
+23
 <br>
 Grenzen - limits
 sprengt - blows up
@@ -930,6 +978,10 @@ alles glatt - everything smooth
 nicht geschafft - did not make it
 durchsetzen- push through
 except - auBer
+<br>
+<br>
+24
+<br>
 
 ***********************************
 Artikel Identifikation
