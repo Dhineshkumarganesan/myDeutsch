@@ -1009,6 +1009,13 @@ Bin , Sein Form
 ![image](https://user-images.githubusercontent.com/59999899/135719188-3f163f2d-cf76-4360-af2f-31cc6cda0d5f.png)
 
 ****************************
+Declension of Adjektives
+****************************
+
+![image](https://user-images.githubusercontent.com/59999899/139540453-8eaf52f8-3f76-491b-bd54-206b2b82c56b.png)
+
+
+****************************
 Schreiben Aufgabe
 ****************************
 
