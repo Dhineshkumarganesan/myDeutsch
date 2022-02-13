@@ -1430,3 +1430,39 @@ Koenntest du bitte mir eine Bestaetigung geben?<br>
 Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/59999899/153768296-9e76e30f-c97a-4b2a-be9d-6fb0b7a23542.png)
+
+<br><br>
+1.Auch neu hier?
+<br><br>
+13.02.2022<br>
+Braunschweig<br>
+An<br>
+der StadtteilZentrum am Park<br>
+ParkstraBe 25. 54321- Schoenstadt<br>
+<br><br>
+Sehr geehrte Damen und Herren,<br>
+ich schreibe Ihnen, weil ich nicht gluecklich mit Ihren Kurs fuer Neuezugezone bin<br>
+Mein Name ist Dhinesh Kumar Ganehsan. Ich habe an Ihren Kurs am 15-Jan-2022 teilgenommen<br>
+Mein Beschwerde  ist , dass den Kurs beim unerfahrenen Praktikantinnen und Praktikanten geleitet worden ist<br>
+Ich habe erwartet, dass Ihrem Kurs sehr interessant und umfassend sein wird.<br>
+Ich habe gedacht , dass viele Jungen Leute an den Kurs teilnehmen werden.<br>
+AuBerdem habe ich erwartet , dass die Vortrage sehr informativ und interessanten sein werden<br>
+und Viel SpaB im Kulterell und Sportaktivitaten erwartet<br>
+Aber ich war entaeuscht.<br>
+Wie besprochen, muss ein Kinobesuch, Kulterell und SportAktivatat stattfinden<br>
+Aber auBer Kinobesuch, waren keine Kulturell oder Sport Aktivitaten gemacht<br>
+Die Gruppe saB meistens nur in Gruppenraum zusammen<br>
+Auch alle Teilnehmer waren Alt mit nur zwei Junge Leuten<br>
+Also fanden die Vortraege  auf nicht statt<br>
+Ich bin nicht ueberhaupt zufrieden<br>
+In diesem Fall, bitte ich Sie Halbes meines Geldes zuruckzuerstatten.<br>
+Ich hatte eine Bitte an Sie, koennten Sie mir allle Informationen an meine E-mail Addresse senden?  Sie lautet dhineshkumarganesan@gmail.com<br>
+Ich freue mich auf eine schnelle und positive Antwort und bedanke mich im Voraus.<br>
+<br><br>
+Mit freundlichen GrueBen,<br>
+Dhinesh Kumar Ganeshan<br>
+
