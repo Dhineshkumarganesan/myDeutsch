@@ -1431,6 +1431,9 @@ Mach es gut.<br>
 Dein Freund,<br>
 Dhinesh Kumar Ganeshan<br>
 
+*****************************
+B2 Schreiben
+*****************************
 <br>
 
 ![image](https://user-images.githubusercontent.com/59999899/153768296-9e76e30f-c97a-4b2a-be9d-6fb0b7a23542.png)
