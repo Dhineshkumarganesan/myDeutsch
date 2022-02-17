@@ -1503,6 +1503,9 @@ Dhinesh Kumar Ganeshan<br>
 <br>
 3<br>
 <br>
+
+![image](https://user-images.githubusercontent.com/59999899/154446067-1bcfd834-c013-4f4f-bb22-3efdb57a4583.png)
+
 Ihre früheren Nachbarn sind vor einem Monat umgezogen und feiern ein Fest in der neuen Wohnung.<br>
 Sie haben eine Einladung bekommen. Antworten Sie auf die Einladung.<br>
 Schreiben Sie etwas über folgende Punkte. Vergessen Sie nicht die Anrede und den Gruß.<br>
