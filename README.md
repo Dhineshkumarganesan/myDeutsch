@@ -1469,3 +1469,62 @@ Ich freue mich auf eine schnelle und positive Antwort und bedanke mich im Voraus
 Mit freundlichen GrueBen,<br>
 Dhinesh Kumar Ganeshan<br>
 
+<br>
+
+
+2
+<br>
+1.Trainingcamp am Neurburging
+<br>
+14.02.2022<br>
+Braunschweig<br>
+
+
+An<br>
+Renn Touristik,<br>
+Trainingcamp am Neurburging<br>
+Berlin<br>
+
+Sehr geehrte Damen und Herren,<br>
+ich schreibe Ihnen, weil ich nicht zufrieden mit Ihren Kurs fuer Trainingscamp am Nuerburging bin<br>
+Mein Name ist Dhinesh Kumar Ganehsan. Ich habe an Ihren Kurs am 15-Jan-2022 teilgenommen<br>
+Mein Beschwerde  ist, dass den Kurs nicht gut organisiert worden ist.<br>
+Ich habe erwartet, dass die Fahrlehrern um 9.00 Uhr der Unterricht anfangen. Aber jeden Tag ,fangt  die Unterricht um 10.00 Uhr an. Es war sehr schlecht.<br>
+Ich habe erwartet, dass Ihr FahrTraniningKurs sehr hilfreich  fuer mein AutoFahren verbessern sein wird.<br>
+Ich habe gedacht, dass jeden Abend Filme ueber Rennen und Rennfahren spielen werden.<br>
+AuBerdem habe ich erwartet , dass das Fahrtraining auf trockener und nasse StraBe stattfinden wird <br>
+und das Training im Porsche, Mercedes , BMW oder Audi und so erwartet. Aber das Training nur mit dem Ford oder Volkswagen Auto stattfinden wird<br>
+Aber ich war Total entaeuscht.      In diesem Fall, bitte ich Sie Halbes meines Geldes zuruckzuerstatten.<br>
+Ich hatte eine Bitte an Sie, koennten Sie mir allle Informationen an meine E-mail Addresse senden?  Sie lautet dhineshkumarganesan@gmail.com<br>
+Ich freue mich auf eine schnelle und positive Antwort und bedanke mich im Voraus.<br>
+
+Mit freundlichen GrueBen,<br>
+Dhinesh Kumar Ganeshan<br>
+<br>
+3<br>
+<br>
+Ihre früheren Nachbarn sind vor einem Monat umgezogen und feiern ein Fest in der neuen Wohnung.<br>
+Sie haben eine Einladung bekommen. Antworten Sie auf die Einladung.<br>
+Schreiben Sie etwas über folgende Punkte. Vergessen Sie nicht die Anrede und den Gruß.<br>
+
+GRUND DES SCHREIBENS<br>
+GESCHENK<br>
+WER KOMMT NOCH ?<br>
+BITTE UM WEGBESCHREIBUNG?<br>
+
+Sehr geehrte Frau Silke,<br>
+
+ich freu mich dass Sie Ihren neuen Wohnung erfolgereich umgezogen und einrichten.<br>
+Vielen dank fuer ihre Einladung. <br>
+Eine Haus einzurichten ist sehr schwierige Aufgabe.<br>
+Leider koennte ich Ihnen nicht helfen weil ich die letzten zwei wochen nicht in der Stadt war.<br>
+Ich habe gedacht dass, ich eine Lamp als Geschenk kaufen.<br>
+Aber ich wuerde gerne Ihnen fragen, Welche Geschenk moechten Sie?<br>
+Koennten Sie bitte eine Vorschlag mir geben?<br>
+Kann ich mit meinem freunden an Ihren Wohnung kommen ?<br>
+Koennten Sie bitte um Wegbeschreibung ?<br>
+
+Vielen Dank wieder. Ich bedanke mich im Voraus.<br>
+
+Mit freundlichen GrueBen,<br>
+Sheela Moorthy<br>
