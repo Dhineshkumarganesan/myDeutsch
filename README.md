@@ -1531,3 +1531,35 @@ Vielen Dank wieder. Ich bedanke mich im Voraus.<br>
 
 Mit freundlichen GrueBen,<br>
 Sheela Moorthy<br>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/59999899/154670286-557ff5f3-09ba-4e67-be52-08918c8106a3.png)
+
+<br>
+In Ihrer Wohnung haben Sie seit einiger Zeit Probleme mit der Heizung. Der Vermieter soll die Heizung reparieren lassen. Leider können Sie Ihren Vermieter telefonisch nicht erreichen, deshalb schreiben Sie einen Brief.<br>
+
+Schreiben Sie etwas über folgende Punkte. Vergessen Sie nicht die Anrede und den Gruß.<br>
+
+GRUND DES BESCHREIBENS<br>
+PROBLEM: WIE LANGE SCHON ?<br>
+TERMIN FUER REPARATUR<br>
+WIE SIE ERREICHBAR SIND<br>
+
+Sehr geehrter Herr Fritz,<br>
+
+ich schreibe Ihnen, weil ich eine sehr lange Probleme mit der Heizung an meinem Wohnung habe.<br>
+Ich habe diese Problem fuer letzten zwei Wochen und ich versuche an Sie Ihren Handynummer zu rufen.<br>
+Aber ich kann Sie nicht erreichen. <br>
+Das ist der Grund dass, ich Ihnen diese Brief schreiben.<br>
+Da das Wetter sehr kalt ist, ist es sehr schwierig und ich habe etwas Probleme mit Atmen.<br>
+Wegen diese Problem, moechte ich gerne Sie Dringend einen HeizungElektriker zu Reparieren.<br>
+Ich hatte eine Bitte an Sie,koennten Sie bitte einen Termin Dringend arrangieren ?<br>
+Ich freue mich auch eine schnelle und positive Antwort von Ihnen.<br>
+Sie erreichen mich telefonisch unter diese Nummer<br>
++49 152190648111<br>
+Bitte senden Sie mir alle Informationen an diese Email Address : dhineshkumarganesan@gmail.com<br>
+Ich bedanke mich bei Ihnen fuer Ihre drigende Hilfe.<br>
+
+Mit freundlichen GrueBen,<br>
+Dhinesh Kumar Ganeshan<br>
