@@ -6,19 +6,27 @@ Mein Beitrag auf Deutsch
 Do not forget
 
 1. Time expression--> will be accusative(Jeden Monat). If there is no preposition. If exist it is Dativ (Im jedem Monat)
-2. mit --> should go dativ article declension - ( em - masc ,er - fem, en- dativ plural) 
-3. an should be used with teilnehmen / teilgenommen
-4. heiBes Wasser --> adjective ( qualifies the noun by describing the object ) - hot water - heiBes Wasser 
-5. Akkusativ- movement & object , Dativ - postion, genetiv - possession of object
-6. Sein - bin
-7. Time or Place, the sentence should start with Verb
-8. Jeden Tag,Jede Woche,Jeden Monat, Jedes Jahr, Letzten Zwei Tagen,Letzte Woche, Letzten Monat, Letztes Jahr
-9. Du fehlst mir ( i miss you), fehlst du mir? - People . Objects - like train, event - use verpassen<br>
-10. Ich hatte Glück gehabt,Geduld gehabt<br>
-11. neueste,schicke,moderne <br>
-12. e ,Schaft ,Keit, Heit,ik --> feminine<br>
-13. Months,days,seasons --> Masculine .Year--> Plural<br>
-14. Die Welt , Das Universium
+2.  Prepositions
+    bis (until, up to, as far as)
+    durch (through, by means of)
+    für (for)
+    ohne (without)
+    gegen (against)
+    um (around, at [a certain] time, for)
+    entlang (along)
+4. mit --> should go dativ article declension - ( em - masc ,er - fem, en- dativ plural) 
+5. an should be used with teilnehmen / teilgenommen
+6. heiBes Wasser --> adjective ( qualifies the noun by describing the object ) - hot water - heiBes Wasser 
+7. Akkusativ- movement & object , Dativ - postion, genetiv - possession of object
+8. Sein - bin
+9. Time or Place, the sentence should start with Verb
+10. Jeden Tag,Jede Woche,Jeden Monat, Jedes Jahr, Letzten Zwei Tagen,Letzte Woche, Letzten Monat, Letztes Jahr
+11. Du fehlst mir ( i miss you), fehlst du mir? - People . Objects - like train, event - use verpassen<br>
+12. Ich hatte Glück gehabt,Geduld gehabt<br>
+13. neueste,schicke,moderne <br>
+14. e ,Schaft ,Keit, Heit,ik --> feminine<br>
+15. Months,days,seasons --> Masculine .Year--> Plural<br>
+16. Die Welt , Das Universium
 
 
 *************************
