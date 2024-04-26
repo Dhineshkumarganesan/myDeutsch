@@ -41,7 +41,7 @@ beitrag- contribution
 Mitteilung - message
 Ausdrucke- expressions
 doch- sure
-halt - definitely
+halt - stop.definitely
 eben - even
 usw- und so weiter
 Abkurzungen - abbreviation
