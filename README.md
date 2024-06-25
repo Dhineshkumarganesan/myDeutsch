@@ -1023,6 +1023,38 @@ Asteroidenguertel - asteroid belt
 umkreisen - orbits
 Weiter entfernt - further away
 riesige - really huge
+Wirbelsturm - hurricane
+Fleck - spot
+hineinpassen - fit in
+Milliarden - billions
+winziger - tiny
+bestehen - consists
+Gesteins- rocks
+Staub - dust
+teilchen- particles
+ungern - unwillingly/hate
+neugierig - curious
+Zwerg - dwarf 
+Zweck -Purpose
+denen - them
+einer von denen - one of them
+aenhelt - similar
+vorhin - earlier
+verfolgen - we track / follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
