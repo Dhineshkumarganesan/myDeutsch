@@ -996,7 +996,7 @@ umherkreist - circles around
 umrundet - circling 
 dabei - thereby
 vollstaendig- completely
-
+naeher - closer
 
 
 
