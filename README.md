@@ -991,6 +991,14 @@ except - auBer
 24
 <br>
 
+umkreist - orbits 
+umherkreist - circles around
+umrundet - circling 
+dabei - thereby
+
+
+
+
 ***********************************
 Artikel Identifikation
 ***********************************
