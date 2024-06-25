@@ -995,6 +995,8 @@ umkreist - orbits
 umherkreist - circles around
 umrundet - circling 
 dabei - thereby
+vollstaendig- completely
+
 
 
 
