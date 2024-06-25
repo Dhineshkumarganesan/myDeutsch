@@ -997,6 +997,34 @@ umrundet - circling
 dabei - thereby
 vollstaendig- completely
 naeher - closer
+verbrennen - to burn
+Stern - Star
+Gesteinsplaneten - rocky planets
+dick - thick
+dicht - dense
+giftig - poisonous
+drauf - on
+lieber - preferably
+lassen - leave
+Besonderes - special
+Wusstet ihr das -- did you know that ?
+flussigem - liquid
+Fluessen- rivers
+bedeckt - covered
+soweit - as far as
+gehuellt - covered
+roshaltigen - rusty
+Staub - dust
+verleiht - to give/ to lend
+Darum nennt man ihn- That is why it is called
+Gesteinsbrocken - pieces of rocks
+guertel - belt
+Asteroidenguertel - asteroid belt
+umkreisen - orbits
+Weiter entfernt - further away
+riesige - really huge
+
+
 
 
 
