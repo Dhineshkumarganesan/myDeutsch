@@ -29,9 +29,16 @@ Do not forget
 16. Die Welt , Das Universium
 
 
+
+
 *************************
 Mein Wortschatz
 *************************
+
+B2 wortschatz
+
+Fallstricke - pitfalls
+
 
 1
 <br>
