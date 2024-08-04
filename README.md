@@ -44,6 +44,7 @@ B2 wortschatz
 
 ![image](https://github.com/user-attachments/assets/94e50772-c47c-487f-8da5-382c8f5be698)
 
+![image](https://github.com/user-attachments/assets/dd17d28c-9f2e-4573-b18b-6ab232130624)
 
 
 Fallstricke - pitfalls
