@@ -34,8 +34,13 @@ Do not forget
 *************************
 Mein Wortschatz
 *************************
-
 B2 wortschatz
+
+04.08
+
+![image](https://github.com/user-attachments/assets/46f22ca8-83d0-401f-b9b6-350d751ff2cf)
+
+
 
 Fallstricke - pitfalls
 
