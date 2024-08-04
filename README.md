@@ -42,6 +42,7 @@ B2 wortschatz
 
 ![image](https://github.com/user-attachments/assets/a2a804d5-63f6-45ae-9e71-916be094e102)
 
+![image](https://github.com/user-attachments/assets/94e50772-c47c-487f-8da5-382c8f5be698)
 
 
 
