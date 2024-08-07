@@ -46,6 +46,13 @@ B2 wortschatz
 
 ![image](https://github.com/user-attachments/assets/dd17d28c-9f2e-4573-b18b-6ab232130624)
 
+Tips for B2 Sprechen
+
+![image](https://github.com/user-attachments/assets/ddd40475-9ca3-4e34-8948-1024403d1213)
+
+![image](https://github.com/user-attachments/assets/2df0c773-c1c0-4475-b460-217989fb649c)
+
+
 
 Fallstricke - pitfalls
 
