@@ -54,6 +54,17 @@ Tips for B2 Sprechen
 
 
 
+![image](https://github.com/user-attachments/assets/24fde03f-578e-4a39-9c6c-2c3aa92ab11e
+
+![image](https://github.com/user-attachments/assets/646d7605-1c74-459f-aafa-27e83da7b676)
+
+
+
+
+
+
+
+
 Fallstricke - pitfalls
 
 
