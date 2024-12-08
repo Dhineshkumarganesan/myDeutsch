@@ -34,6 +34,13 @@ Do not forget
 *************************
 Mein Wortschatz
 *************************
+08.12
+
+aúftauchen - turn up, emerges, declares
+Spuren- traces
+angeklagt - accused
+verdächtigen - suspect
+
 B2 wortschatz
 
 04.08
