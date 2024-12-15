@@ -47,6 +47,7 @@ tätig - active <br/>
 Verein - association/club<br/>
 fördern - promote / advances<br/>
 Einheimischen - local / community people <br/>
+hingehen- go there <br/>
 
 B2 wortschatz
 
