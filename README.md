@@ -34,12 +34,13 @@ Do not forget
 *************************
 Mein Wortschatz
 *************************
-08.12
+Latest
 
-aúftauchen - turn up, emerges, declares
-Spuren- traces
-angeklagt - accused
-verdächtigen - suspect
+aúftauchen - turn up, emerges, declares<br/>
+Spuren- traces<br/>
+angeklagt - accused<br/>
+verdächtigen - suspect<br/>
+umsetzen- implement<br/>
 
 B2 wortschatz
 
@@ -77,7 +78,7 @@ Fallstricke - pitfalls
 
 1
 <br>
-umsetzen- implement<br>
+
 einzelnen - individual<br>
 Gaestebuch-  Register
 beitrag- contribution
