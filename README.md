@@ -77,6 +77,7 @@ Fallstricke - pitfalls
 
 1
 <br>
+umsetzen- implement<br>
 einzelnen - individual<br>
 Gaestebuch-  Register
 beitrag- contribution
