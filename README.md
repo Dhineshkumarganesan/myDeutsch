@@ -42,6 +42,7 @@ angeklagt - accused<br/>
 verdächtigen - suspect<br/>
 umsetzen- implement<br/>
 Gesetze - laws <br/>
+verabschiedet - adopted <br/>
 
 B2 wortschatz
 
