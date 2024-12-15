@@ -43,6 +43,10 @@ verdächtigen - suspect<br/>
 umsetzen- implement<br/>
 Gesetze - laws <br/>
 verabschiedet - adopted <br/>
+tätig - active <br/>
+Verein - association/club<br/>
+fördern - promote / advances<br/>
+Einheimischen - local / community people <br/>
 
 B2 wortschatz
 
