@@ -41,6 +41,7 @@ Spuren- traces<br/>
 angeklagt - accused<br/>
 verdächtigen - suspect<br/>
 umsetzen- implement<br/>
+Gesetze - laws <br/>
 
 B2 wortschatz
 
