@@ -49,6 +49,7 @@ fördern - promote / advances<br/>
 Einheimischen - local / community people <br/>
 hingehen- go there <br/>
 erkunden - to explore<br/>
+enges verhaltnis - close relationship<br/>
 
 B2 wortschatz
 
