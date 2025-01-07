@@ -36,6 +36,7 @@ Mein Wortschatz
 *************************
 Latest
 
+Alleinerziehende Mutter - single mother
 aúftauchen - turn up, emerges, declares<br/>
 Spuren- traces<br/>
 angeklagt - accused<br/>
