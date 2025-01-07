@@ -36,6 +36,16 @@ Mein Wortschatz
 *************************
 Latest
 
+Widmen- dedicate
+Uebungen - exercise
+greifen - to grab
+Sinn - Sense
+ueberwinden - overcome
+selbstbewusst - confident
+treten- to represent
+entsprechend - accordingly
+Fortschritte - progress
+
 Alleinerziehende Mutter - single mother
 aúftauchen - turn up, emerges, declares<br/>
 Spuren- traces<br/>
