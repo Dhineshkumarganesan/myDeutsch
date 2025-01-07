@@ -45,7 +45,7 @@ selbstbewusst - confident
 treten- to represent
 entsprechend - accordingly
 Fortschritte - progress
-bewusst - conscious
+Bewusst sein und beachtung schenken - Be aware and pay attention
 
 Alleinerziehende Mutter - single mother
 aúftauchen - turn up, emerges, declares<br/>
