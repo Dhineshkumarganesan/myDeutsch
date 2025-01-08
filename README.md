@@ -31,9 +31,9 @@ Do not forget
 
 <br>
 If a noun ends in -or, -ling, -ig, –ner or -smus, it is masculine and should be prefixed by the word der. For instance, you would say: der Generator, der Frühling, der Honig, der Rentner and der Kapitalismus.
-
+<br>
 If a noun ends in -ung, -ie, -ei, -keit, heit, schaft, –tät, -ik or -tion, it is feminine and should be prefixed by the word die. For instance, you would say die Zeitung, die Komödie, die Bäckerei, die Tätigkeit, die Schönheit, die Mannschaft, die Universität, die Musik and die Situation.
-
+<br>
 If a noun ends in -chen, -lein, -ment, -tum, -ma or -um, it is neuter and should be prefixed by das. For instance, you would say das Mädchen, das Fräulein, das Supplement, das Rittertum, das Schema and das Museum
 
 </br>
