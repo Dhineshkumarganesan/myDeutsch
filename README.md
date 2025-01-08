@@ -30,11 +30,11 @@ Do not forget
 
 
 <br>
-If a **<b>noun</b>** ends in **<b></b>-or, -ling, -ig, –ner or -smus,</b>** it is masculine and should be prefixed by the word **<b>der<b/>**. For instance, you would say: der Generator, der Frühling, der Honig, der Rentner and der Kapitalismus.
+If a <b>noun</b> ends in <b>-or, -ling, -ig, –ner or -smus,</b> it is masculine and should be prefixed by the word <b>der<b/>. For instance, you would say: der Generator, der Frühling, der Honig, der Rentner and der Kapitalismus.
 <br>
-If a **<b>noun</b>** ends in **<b>-ung, -ie, -ei, -keit, heit, schaft, –tät, -ik or -tion</b>**, it is feminine and should be prefixed by the word**<b> die</b>b>** For instance, you would say die Zeitung, die Komödie, die Bäckerei, die Tätigkeit, die Schönheit, die Mannschaft, die Universität, die Musik and die Situation.
+If a <b>noun</b> ends in <b>-ung, -ie, -ei, -keit, heit, schaft, –tät, -ik or -tion</b>, it is feminine and should be prefixed by the word**<b> die</b> For instance, you would say die Zeitung, die Komödie, die Bäckerei, die Tätigkeit, die Schönheit, die Mannschaft, die Universität, die Musik and die Situation.
 <br>
-If a **<b>noun</b>b>** ends in **<b>-chen, -lein, -ment, -tum, -ma or -um,</b>b>** it is neuter and should be prefixed by **<b>das</b>b>.** For instance, you would say das Mädchen, das Fräulein, das Supplement, das Rittertum, das Schema and das Museum
+If a <b>noun</b> ends in <b>-chen, -lein, -ment, -tum, -ma or -um,</b> it is neuter and should be prefixed by <b>das</b>.For instance, you would say das Mädchen, das Fräulein, das Supplement, das Rittertum, das Schema and das Museum
 
 </br>
 
