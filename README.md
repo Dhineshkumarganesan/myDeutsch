@@ -36,6 +36,7 @@ Mein Wortschatz
 *************************
 Latest
 
+empfinden - to feel
 Widmen- dedicate
 Uebungen - exercise
 greifen - to grab
