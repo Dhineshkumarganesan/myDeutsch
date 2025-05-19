@@ -75,7 +75,50 @@ enges verhaltnis - close relationship<br/>
 
 B2 wortschatz
 
-04.08
+
+19.05.2025
+
+Gastfreundschaft<br/>
+*********************<br/>
+Als Deutschland 2006 das Gastgeberland der Weltmeisterschaft war,<br/>
+herrschte ein reges Treiben.<br/>
+Es wurden diverse Sicherheitsvorkehrungen getroffen<br/>
+und zahlreiche Bauarbeiten getätigt.<br/>
+Bestehende Stadien wurden umgebaut und sicherer gemacht.<br/>
+In München, Leipzig, Köln und Hamburg wurden neue Stadien gebaut.<br/>
+Die Infrastruktur im Umkreis der Stadien wurde verbessert.<br/>
+Denn die Deutschen lieben es,<br/>
+als besonders organisiert bejubelt zu werden.<br/>
+Man plante die Fassaden ganzer Städte von ihrem alten Grau zu befreien und,<br/>
+ähnlich wie im freundlichen Italien,<br/>
+alles in warmen Pastelltönen zu streichen.<br/>
+Man lockerte die Auflagen für Cafés und Kneipen,<br/>
+so dass auch in trüben Ecken mancher Städte<br/>
+in den frühen Abendstunden ein lustiges Treiben zu sehen war.<br/>
+Ja, Deutschland hatte endlich einmal die Chance so zu tun,<br/>
+als wäre es fast so entspannt wie seine südlichen Nachbarn.<br/>
+
+Hospitality<br/>
+*****************<br/>
+When Germany hosted the World Cup in 2006,<br/>
+there was a flurry of activity.<br/>
+Various security measures were taken<br/>
+and numerous construction projects were carried out.<br/>
+Existing stadiums were rebuilt and made safer.<br/>
+New stadiums were built in Munich, Leipzig, Cologne, and Hamburg.<br/>
+The infrastructure around the stadiums was improved.<br/>
+Because the Germans love<br/>
+to be hailed as being particularly organized.<br/>
+Plans were made to strip the facades of entire cities of their old gray and,<br/>
+similar to friendly Italy,<br/>
+to paint everything in warm pastel colors.<br/>
+The regulations for cafés and bars were relaxed,<br/>
+so that even in the dull corners of some cities<br/>
+there was a lively atmosphere in the early evening hours.<br/>
+Yes, Germany finally had the chance to pretend<br/>
+that it was almost as relaxed as its southern neighbors.<br/>
+
+04.08<br/>
 
 ![image](https://github.com/user-attachments/assets/46f22ca8-83d0-401f-b9b6-350d751ff2cf)
 
